@@ -3,7 +3,7 @@
 # Applied Data Science for Security Professionals
 <img src="img/GTK_Logo_Social Icon.jpg" width="175" align="left" >
 
-### BlackHat 2020 Trainings (August 3rd-4th, 2020) presented by GTK Cyber
+### BlackHat 2020 Trainings (December 7th-8th, 2020) presented by GTK Cyber
 
 GTK Cyber [www.gtkcyber.com](https://www.gtkcyber.com) was founded to bridge the gap between Data Science and Cyber Security and not
 only provide high standard hands-on trainings, but introduce students to the most cutting-edge technologies and advancements in artificial intelligence,
@@ -19,7 +19,6 @@ Griffon is a environment for data science. Griffon is based on Ubuntu MATE and i
 ### Instructors
 
 - Charles Givre - Data Scientist:  charles.givre@gtkcyber.com
-- Austin Taylor - Cyber Security Researcher: austin.taylor@gtkcyber.com
 - Brian Genz - Senior Instructor: brian.genz@gtkcyber.com
 
 ### Lectures:
